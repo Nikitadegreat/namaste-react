@@ -1,0 +1,16 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is React by Nikita",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react."
+  ],
+  "author": "Nikita kumari",
+  "license": "ISC"
+}
